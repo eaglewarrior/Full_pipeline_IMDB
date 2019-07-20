@@ -1,7 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot
 import os
-os.chdir('/home/fractaluser/Desktop/web_scraping/')
+os.chdir('/Desktop/web_scraping/')
 data=pd.read_csv('final_movie_details.csv')
 
 # plot
