@@ -1,5 +1,5 @@
 import os
-os.chdir('/home/fractaluser/Desktop/web_scraping/imdb scrapper_ml/')
+os.chdir('Desktop/web_scraping/imdb scrapper_ml/')
 
 import pandas as pd
 
