@@ -1,6 +1,9 @@
 # Full_pipeline_IMDB
 I have implemented full pipeline of datascience from scrapping data from web to implementing ml and NLP classification
 
+Do check the full blog at [Link](https://www.loginradius.com/engineering/blog/Full_data_science_pipeline_implementation/)
+
+
 Phase I:
 
 Here I have scraped data from IMDB website  (imdb.py) 
